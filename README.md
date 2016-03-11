@@ -1,2 +1,2 @@
 # practice
-practice for python
+PythonとTensorflowの練習のため
